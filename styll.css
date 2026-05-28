@@ -1,0 +1,25 @@
+
+ body{
+ background-color: #f3d199;
+}
+ .imagenempache{
+ background-position: 300px;
+ }
+ .contenedor {
+    display: grid ;
+    grid-template-columns: repeat(2, 1fr);
+    margin: 10px;
+    padding: 20px;
+ }
+ .tarjetas {
+    border: #d19028;
+    
+
+ }
+ .imagenemp{
+    object-fit: cover;
+    width: 300px;
+    height: 260px;
+    border-radius: 300px;
+    border-style: solid #661010;
+ }
